@@ -3,4 +3,8 @@ asd
 
 test
 
+<<<<<<< HEAD
 master
+=======
+branch
+>>>>>>> bran1
